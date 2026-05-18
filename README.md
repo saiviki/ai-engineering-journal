@@ -1,8 +1,8 @@
 # AI Engineering Journal
 
-> What I'm learning about AI engineering, week by week. Distilled to the takeaways and what surprised me — not raw notes.
+> Notes from building AI systems — the takeaways and what surprised me, not raw notes.
 
-I'm a CTO working through a 24-week self-directed plan from "AI user" → "AI systems builder." This repo is the public layer: the parts worth keeping, written in a form a stranger could learn from.
+I'm an AI builder. This repo is the public layer: the parts worth keeping, written so someone else can skip the dead ends.
 
 ## Why this exists
 
