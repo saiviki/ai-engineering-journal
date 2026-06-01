@@ -27,7 +27,7 @@ week-XX/
 
 | Week | Phase | Topic | Status |
 |------|-------|-------|--------|
-| [09](./week-09/) | Tools, APIs & Multi-Agent | LangChain Functions/Tools/Agents | 🚧 Draft |
+| [09](./week-09/) | Tools, APIs & Multi-Agent | Shipping an Agent Cost Calculator — token-cost math + quadratic context amplification | ✅ Published |
 | 08 | RAG | Production retrieval patterns | ⏳ Backfill pending |
 | 07 | RAG | Vector stores + embedding strategies | ⏳ Backfill pending |
 | 01-06 | Foundations | Agent basics, frameworks, ChatGPT API | ⏳ Backfill pending |
