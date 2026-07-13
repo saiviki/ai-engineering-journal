@@ -1,4 +1,6 @@
-# Week 09 — When one-shot automation fails silently
+# Week 01 — When one-shot automation fails silently
+
+*Published: July 13, 2026*
 
 Four backlog items went to four one-shot cloud routines.
 

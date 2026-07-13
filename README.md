@@ -6,4 +6,9 @@ This is a running engineering journal: one concrete build, failure, or lesson at
 
 ## Entries
 
-- [Week 09 — When one-shot automation fails silently](./week-09/)
+- [Week 01 — When one-shot automation fails silently](./week-01/) — July 13, 2026
+
+## Backfills
+
+- [2026-W27 — The first real reminder was the first useful test](./backfills/2026-W27-notification-boundary.md)
+- [2026-W26 — A scanner can pass while scanning nothing](./backfills/2026-W26-scanner-coverage.md)
