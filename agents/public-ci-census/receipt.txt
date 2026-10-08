@@ -1,0 +1,38 @@
+auth=none
+rate_limit_remaining=59
+window=30
+max_workflows=15
+pallets/click @ 2247b35 (main) truncated=false
+  OK        Lock inactive closed issues: green at HEAD (30/30 in window)
+  OK        Nightly tests: green at HEAD (30/30 in window)
+  OK        pre-commit: green at HEAD (30/30 in window)
+  DARK      Publish: no runs on default branch
+  NEVER_GREEN QualityRisk Bootstrap (Tests + Sonar): no completed success in 30-run window
+  OK        Tests: green at HEAD (30/30 in window)
+  STALE     GitHub Actions security analysis with zizmor: green but not at default-branch head
+  STALE     Copilot: green but not at default-branch head
+  DARK      Copilot code review: no runs on default branch
+  STALE     Dependency Graph: green but not at default-branch head
+BurntSushi/ripgrep @ 3fce3b5 (master) truncated=false
+  DARK      ci: no runs on default branch
+  OK        ci: green at HEAD (30/30 in window)
+  DARK      Test: no runs on default branch
+  DARK      plumber: no runs on default branch
+  DARK      release: no runs on default branch
+  STALE     Copilot: green but not at default-branch head
+  DARK      Copilot code review: no runs on default branch
+actions/checkout @ f548e57 (main) truncated=false
+  ACTION_REQUIRED Build and Test: latest completed action_required
+  ACTION_REQUIRED Licensed: latest completed action_required
+  ACTION_REQUIRED Check dist: latest completed action_required
+  OK        CodeQL: green at HEAD (30/30 in window)
+  DARK      Update Main Version: no runs on default branch
+  NEVER_GREEN NodeJS with Webpack: no completed success in 30-run window
+  DARK      Publish test-ubuntu-git Container: no runs on default branch
+  OK        Dependabot Updates: green at HEAD (30/30 in window)
+  NEVER_GREEN CodeQL Advanced: no completed success in 30-run window
+  NEVER_GREEN .github/workflows/generator-generic-ossf-slsa3-publish.yml: no completed success in 30-run window
+  DARK      Copilot code review: no runs on default branch
+  DARK      Copilot cloud agent: no runs on default branch
+  OK        Copilot: green at HEAD (7/30 in window)
+summary lanes=30 ok=8 cancelled=0 skipped=0 neutral=0 stale=4 never_green=4 dark=11 other_not_ok=3 stopped=none
