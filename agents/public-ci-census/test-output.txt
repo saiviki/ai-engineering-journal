@@ -1,0 +1,28 @@
+test_all_ok_exit_0_and_exact_stdout (__main__.EndToEnd.test_all_ok_exit_0_and_exact_stdout) ... ok
+test_connection_error_exits_2 (__main__.EndToEnd.test_connection_error_exits_2) ... ok
+test_http_403_exits_2 (__main__.EndToEnd.test_http_403_exits_2) ... ok
+test_no_active_workflows_still_a_receipt (__main__.EndToEnd.test_no_active_workflows_still_a_receipt) ... ok
+test_not_ok_lane_exits_1 (__main__.EndToEnd.test_not_ok_lane_exits_1) ... ok
+test_rate_limit_below_2_stops_before_next_request (__main__.EndToEnd.test_rate_limit_below_2_stops_before_next_request) ... ok
+test_truncation_marks_repo_and_caps_runs (__main__.EndToEnd.test_truncation_marks_repo_and_caps_runs) ... ok
+test_inactive_filtered_before_cap (__main__.SelectActive.test_inactive_filtered_before_cap) ... ok
+test_over_cap_takes_first_in_api_order (__main__.SelectActive.test_over_cap_takes_first_in_api_order) ... ok
+test_under_cap (__main__.SelectActive.test_under_cap) ... ok
+test_no_token_env_or_auth_header_in_source (__main__.SourceHygiene.test_no_token_env_or_auth_header_in_source) ... ok
+test_cancelled_beats_older_success (__main__.VerdictOrder.test_cancelled_beats_older_success) ... ok
+test_dark_when_no_runs (__main__.VerdictOrder.test_dark_when_no_runs) ... ok
+test_in_progress_latest_does_not_decide (__main__.VerdictOrder.test_in_progress_latest_does_not_decide) ... ok
+test_neutral (__main__.VerdictOrder.test_neutral) ... ok
+test_never_green_when_only_in_progress (__main__.VerdictOrder.test_never_green_when_only_in_progress) ... ok
+test_never_green_with_completed_failures (__main__.VerdictOrder.test_never_green_with_completed_failures) ... ok
+test_ok (__main__.VerdictOrder.test_ok) ... ok
+test_other_conclusions_print_upper (__main__.VerdictOrder.test_other_conclusions_print_upper) ... ok
+test_skipped (__main__.VerdictOrder.test_skipped) ... ok
+test_skipped_alone_is_never_green (__main__.VerdictOrder.test_skipped_alone_is_never_green) ... ok
+test_stale_when_success_not_at_head (__main__.VerdictOrder.test_stale_when_success_not_at_head) ... ok
+test_timed_out_alone_is_never_green (__main__.VerdictOrder.test_timed_out_alone_is_never_green) ... ok
+
+----------------------------------------------------------------------
+Ran 23 tests in 3.553s
+
+OK
